@@ -34,7 +34,7 @@ export default {
 
 
 <style lang="scss" scoped>
-@use '../../styles/partials/variables.scss' as *;
+@use '../../styles/_variables.scss' as *;
 
 
 section#bottom-footer {

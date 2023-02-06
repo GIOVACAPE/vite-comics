@@ -25,7 +25,7 @@ export default {
 
 
 <style lang="scss">
-@use '../styles/partials/variables' as *;
+@use '../styles/_variables' as *;
 
 article {
     width: calc((100% / 6) - 1rem);

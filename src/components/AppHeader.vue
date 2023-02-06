@@ -80,7 +80,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '../styles/partials/variables.scss' as *;
+@use '../styles/_variables.scss' as *;
 
 header {
   width: 100%;

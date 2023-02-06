@@ -183,7 +183,7 @@ export default {
 
 
 <style lang="scss" scoped>
-@use '../../styles/partials/variables' as *;
+@use '../../styles/_variables' as *;
 
 section#top-footer {
     background-image: url(../../assets/footer-bg.jpg);

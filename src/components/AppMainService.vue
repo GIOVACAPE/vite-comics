@@ -51,7 +51,8 @@ export default {
 </template>
 
 <style lang="scss">
-@use '../styles/partials/variables.scss' as *;
+@use '../styles/_variables.scss' as *;
+// 
 
 section#service {
     background-color: $brand-color;
